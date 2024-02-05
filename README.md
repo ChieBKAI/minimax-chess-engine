@@ -39,5 +39,7 @@ The implementation is organized into modules:
 - Press 'q' to play as black side
 - Press 'z' or 'r' will disable the AI. If you want to play with AI after that, just press 'e' or 'q'.
 
+![Game play](https://i.imgur.com/ebEvH57.png)
+
 ## References
 [Creating a Chess Engine in Python](https://www.youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_)
