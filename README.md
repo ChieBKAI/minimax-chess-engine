@@ -25,6 +25,8 @@ The Minimax algorithm is a decision-making algorithm commonly used in two-player
 
 The algorithm minimizes the possible loss for a worst-case scenario (hence "min") while assuming the opponent maximizes their advantage (hence "max").
 
+![](https://i.imgur.com/HjFjdGO.png)
+
 ## Implementation
 The implementation is organized into modules:
 
